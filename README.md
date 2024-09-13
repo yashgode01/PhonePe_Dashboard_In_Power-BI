@@ -1,6 +1,6 @@
 # PhonePe_Dashboard_In_Power-BI
 
-### Table Of Contents
+# Table Of Contents
 
 ## Project Overview
 The aim of this dashboard is to analyse user transactions, app usage trends, and provide insights into key performance indicators (KPIs) such as revenue generation, user retention, and transaction types.
