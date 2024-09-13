@@ -2,14 +2,14 @@
 
 # Table Of Contents
 
-## Project Overview
+## Project Overview:
 PhonePe is a mobile payment platform using which you can transfer money using UPI, recharge phone numbers, pay utility bills, etc. PhonePe works on the Unified Payment Interface (UPI) system and all you need is to feed in your bank account details and create a UPI ID.
 The aim of this dashboard is to analyse user transactions, app usage trends, and provide insights into key performance indicators (KPIs) such as revenue generation, user retention, and transaction types.
 
-## Data Source
+## Data Source:
 The data used for this analysis is the ".csv" file. The dataset includes 14 fields and 5614k records.
 
-## Tools
+## Tools:
 - Power BI
 
 ## Below are the key point indicators:
